@@ -18,11 +18,17 @@ The instrumentation provides the possibility to save a maximum of 64 waveforms. 
 Computing the average of 64 waveforms $\longrightarrow$ FFT and phases of the average waveform.
 
 ![Plot average waveform](070824_15.46/avg_wf.png)
-![Plot average waveform](070824_15.46/avg_wf.png)
-![Plot average waveform](070824_15.46/avg_wf.png)
-
-
+![Plot average waveform](070824_15.46/phase_of_avg_fft.png)
 
 ## Method B
 Computing separetly the FFT of each waveform $\longrightarrow$ average FFT and average phases.\
 Note that the average FFT is calculated by averaging the absolute values of each outcome of rfft, but the phases must calculated before executing np.abs(Y), otherwise we would lose the phase information.
+
+![Plot average waveform](070824_15.46/avg_fft.png)
+![Plot average waveform](070824_15.46/avg_phases.png)
+
+## Comparison A VS B
+
+![Plot average waveform](070824_15.46/A_VS_B.png)
+![Plot average waveform](070824_15.46/A_VS_B_phases.png)
+
