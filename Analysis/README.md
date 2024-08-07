@@ -17,7 +17,11 @@ The instrumentation provides the possibility to save a maximum of 64 waveforms. 
 ## Method A
 Computing the average of 64 waveforms $\longrightarrow$ FFT and phases of the average waveform.
 
-![Plot average waveform](070824_15.46/avg_wf.pdf)
+![Plot average waveform](070824_15.46/avg_wf.png)
+![Plot average waveform](070824_15.46/avg_wf.png)
+![Plot average waveform](070824_15.46/avg_wf.png)
+
+
 
 ## Method B
 Computing separetly the FFT of each waveform $\longrightarrow$ average FFT and average phases.\
