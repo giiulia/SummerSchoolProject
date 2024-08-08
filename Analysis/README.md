@@ -21,14 +21,19 @@ Computing the average of 64 waveforms $\longrightarrow$ FFT and phases of the av
 
 ![Plot average waveform](070824_15.46/avg_wf_A.png)
 ![Plot average fft](070824_15.46/avg_fft_A.png)
+Source code: [avg_wf_vs_avg_fft](avg_wf_VS_avg_fft-NOerrors.ipynb)
 ![Plot average phases](070824_15.46/avg_phases_A.png)
+Source code: [avg_wf_vs_avg_phase](avg_wf_VS_avg_phase-NOerrors.ipynb)
+
 
 ## Method B
 Computing separetly the FFT of each waveform $\longrightarrow$ average FFT and average phases.\
 Note that the average FFT is calculated by averaging the absolute values of each outcome of rfft, but the phases must calculated before executing np.abs(Y), otherwise we would lose the phase information.
 
 ![Plot average fft](070824_15.46/avg_fft_B.png)
+Source code: [avg_wf_vs_avg_fft](avg_wf_VS_avg_fft-NOerrors.ipynb)
 ![Plot average phases](070824_15.46/avg_phases_B.png)
+Source code: [avg_wf_vs_avg_phase](avg_wf_VS_avg_phase-NOerrors.ipynb)
 
 ## Comparison A VS B
 
