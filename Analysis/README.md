@@ -12,7 +12,7 @@ The background waveform is a superimposition of multiple signals, each of them d
 * The output of the Fourier Transform is a set complex numbers, therefore the orientations of those numbers in the complex plane are the phase components of the signal.
 
 How to compute a fourier transform of a waveform: Discrete Fourier Transforms in Python [FFT package](https://docs.scipy.org/doc/scipy/reference/fft.html#).\
-| ![Plot waveform](070824_15.46/wf.png) | ![Plot dft](070824_15.46/dft.png) |
+ ![Plot waveform](070824_15.46/wf.png)  ![Plot dft](070824_15.46/dft.png) 
 
 The instrumentation provides the possibility to save a maximum of 64 waveforms. There are in principle two ways one can extract the DFT from this input.
 
