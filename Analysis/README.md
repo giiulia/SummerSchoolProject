@@ -38,5 +38,8 @@ Source code: [avg_wf_vs_avg_phase](avg_wf_VS_avg_phase-NOerrors.ipynb)
 ## Comparison A VS B
 
 ![Plot A vs B](070824_15.46/A_VS_B.png)
+Source code: [avg_wf_vs_avg_fft](avg_wf_VS_avg_fft-NOerrors.ipynb)
 ![Plot A vs B phases](070824_15.46/A_VS_B_phases.png)
+Source code: [avg_wf_vs_avg_phase](avg_wf_VS_avg_phase-NOerrors.ipynb)
+
 
