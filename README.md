@@ -1,6 +1,6 @@
 # Purpose of the project
 
-The project was inspired by the groundbreaking astroparticle experiment named Radio Neutrino Observatory that is under construction at summit station in Greenland, namely RNO-G. 
+The project was inspired by the groundbreaking astroparticle experiment named Radio Neutrino Observatory (RNO-G) that is under construction at summit station in Greenland. 
 
 The aim of this project is to achive familiarity with radio signals and discerning their properties in order to investigate properly radio sources in the detection range. In my case the field of study is my office in DESY, where a radio antenna like the ones in Greenland (and the ones used for the previous ARIANNA experiment) is exposed.
 This antenna is the receiver of the signals from sources surrounding my office. It was my interest to exploit this opportunity to get familiar with analysis of radio waveforms and their frequency spectrum. The goal is to be able to filter out narrow frequeny band signals without affecting the signal overimposed. 
