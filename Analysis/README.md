@@ -7,7 +7,7 @@ Background noise is dominated bu low-frequency, typically broad-spectrum signals
 Since the purpose of the study are high-frequency signals, those represent an obstacle for amplitude resolution reachable by the instrumentation. Therefore high-pass filters will be employed to clear the waveform from unwanted signals.
 
 # 1. Background characterization
-The background waveform is a superimposition of multiple signals, each of them described by a frequency and a phase.\
+The background waveform is a superimposition of multiple sine waves, each of them described by a frequency and a phase.\
 * The Fourier Transform of a waveform discloses the frequency components of the signal.
 * The output of the Fourier Transform is a set complex numbers, therefore the orientations of those numbers in the complex plane are the phase components of the signal.
 
