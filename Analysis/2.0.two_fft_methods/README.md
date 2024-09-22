@@ -1,3 +1,5 @@
+The data acquisition system provides by default 64 waveforms consecutive in time. In priciple there are two methods for combining these measurements.
+
 ## Method A
 Computing the average of 64 waveforms $\longrightarrow$ FFT and phases of the reconstructed spectrum.
 
