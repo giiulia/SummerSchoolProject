@@ -1,3 +1,5 @@
+Each algorithm has been tested both with a simple input and with a single waveform to make sure any mistakes were carried into the codes. The implemetation for multiple waveforms required multiple attempts.\
+
 # First filtering algorithm
 The noise waveform is the difference between the original waveform (either the average or the reconstructed one 
 from the average of the spectra, depending on in which domain the average has been done to get the filtered waveform) and the filtered waveform (the output of the filtering attempt)
