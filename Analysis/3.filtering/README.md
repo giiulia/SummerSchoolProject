@@ -1,4 +1,4 @@
-Each algorithm has been tested both with a simple input and with a single waveform to make sure any mistakes were carried into the codes. The implemetation for multiple waveforms required multiple attempts.
+Each algorithm has been tested both with a simple input and with a single waveform to make sure any mistakes were carried into the implemetation. Studying the same algorithms operating on multiple waveforms required multiple attempts since the computational steps are more and interchangeable.
 
 # First filtering algorithm
 The noise waveform is the difference between the original waveform (either the average or the reconstructed one 
