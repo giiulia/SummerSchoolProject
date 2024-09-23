@@ -1,0 +1,5 @@
+24072024_14.40  1,5m from wall - lights off - triggered at 60 mV
+24072024_14.56 	1,5 m from wall NS (parallel to wall)- lights on - triggered at 60 mV
+24072024_16.43 	1,5 m from wall NS - lights on - bkg run
+24072024_17.31 	near wall NS - lights on - bkg run
+24072024_17.43 	3 m from wall WE - lights on - bkg run (standard for next days)

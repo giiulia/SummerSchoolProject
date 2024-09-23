@@ -1,0 +1,3 @@
+02082024_15.15 	1 mus/div +-100mV 5 Gs/s 0-350MHz - lights off
+02082024_15.35 	10 ms/div +-500mV 995 ks/s 0-500kHz - lights off
+02082024_15.48 	10 ms/div +-500mV 995 ks/s 0-350MHz - lights off

@@ -1,0 +1,3 @@
+08082024_14.24 	5 mus/div +-50mV 5 Gs/s 0-350MHz - lights on - with low pass filter - there are some unexplained nan values (use the one after)
+08082024_15.42 	10 ms/div +-500mV 995 ks/s 0-500kHz - lights off - with low pass filter
+08082024_16.07 	10 ms/div +-500mV 995 ks/s 0-350MHz - lights off - without low pass filter

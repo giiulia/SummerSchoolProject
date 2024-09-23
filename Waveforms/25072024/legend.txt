@@ -1,0 +1,7 @@
+25072024_17.23  lights on - new picoscope
+25072024_17.48 	lights off - old picoscope
+25072024_17.51 	trigger at 200 mV 20 mu s/div - lights on - old picoscope
+25072024_17.54 	trigger at 10 mV 100 mu s/div - lights on - new picoscope
+25072024_18.01 	trigger at 20 mV 1 mu s/div +-50 mV - lights off - new picoscope
+25072024_18.13 	trigger at 20 mV 20 mu s/div +-500 mV- lights on - new picoscope
+25072024_18.15 	same as before - lights off 
