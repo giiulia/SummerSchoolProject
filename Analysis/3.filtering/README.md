@@ -41,7 +41,7 @@ Involves subtracting the noise waveform from the original one in time domain. Th
   ![Comparison_expected_VS_noise](../Results/080824_15.42/method2_noise_wf_test2.png)
   The result obtained with this cumbersome method is not different from the one got from attempt one, in which we still averaged in frequency domain.
 - Attempt three. Zeroing 64 magnitudes $\longrightarrow$ IFFTs $\longrightarrow$ average the noise waveforms
-  ![Plot average _noise_magnitudes](../Results/080824_15.42/method2_noise_fft_test3.png)
+  ![Plot average _noise_magnitudes](../Results/080824_15.42/method2_avg_noise_wf_test3.png)
   The expected noise waveform has a phase equal to the average of the phases of that component before filtering.
   ![Comparison_expected_VS_noise](../Results/080824_15.42/method2_noise_wf_test3.png)
 - Attempt four. Zeroing 64 magnitudes $\longrightarrow$ IFFTs $\longrightarrow$ average the noise waveforms
