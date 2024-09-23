@@ -17,7 +17,7 @@ Consists into suppressing the unwanted component in frequency domain.
 - Attempt two. Filtering 64 magnitudes $\longrightarrow$ averaging the filtered magnitudes $\longrightarrow$ IFFT
   The expected noise waveform and the result are the same as attempt 2 since avraging in frequency domain before or after filtering doesn't change the outcome.
 - Attempt three. Filtering 64 magnitudes $\longrightarrow$ 64 IFFTs $\longrightarrow$ average the filtered waveforms
-  ![Plot average waveforms](../Results/080824_15.42/method3_filtered_wf_test3.png)
+  ![Plot average waveforms](../Results/080824_15.42/method1_filtered_wf_test3.png)
   The expected noise waveform has a phase equal to the average of the phases of that component before filtering.
   ![Comparison_expected_VS_noise](../Results/080824_15.42/method1_noise_wf_test3.png)
 - Attempt four. Filtering 64 spectra (complex) $\longrightarrow$ averaging the filtered spectra (complex) $\longrightarrow$ IFFT
