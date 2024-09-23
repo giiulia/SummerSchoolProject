@@ -42,13 +42,13 @@ Involves subtracting the noise waveform from the original one in time domain. Th
   The expected noise waveform has a phase equal to the average of the phases of that component before filtering.
   ![Comparison_expected_VS_noise](../Results/080824_15.42/method2_noise_wf_test3.png)
 - Attempt four. Zeroing 64 magnitudes $\longrightarrow$ IFFTs $\longrightarrow$ average the noise waveforms
-  ![Plot average _noise_magnitudes](../Results/080824_15.42/method2_noise_fft_test4.png)
+  ![Plot average _noise_magnitudes](../Results/080824_15.42/method2_avg_noise_wf_test4.png)
   The expected noise waveform has a phase equal to the phase of the target component from the reconstructed spectrum (IFFT of the average waveform).
   ![Comparison_expected_VS_noise](../Results/080824_15.42/method2_noise_wf_test4.png)
   ATTENTION: This attempt refers to an expected noise waveform with an incorrectly-retrieved phase. Therefore, even though the noise waveform obtained seems satisfactory, it is probably being compared to a non-existent component.
   Below is represented the comparison between the spread of the average of the phases and the phases of the reconstructed spectrum.
   ![Comparison average_phases](../Results/080824_15.42/right_VS_wrong_phases.png)
-  This plots show how the first method of retrieving the phase information reduces the influence of uncorrelated components, yielding a more accurate phase estimation.
+  This plot shows how the first method of retrieving the phase information reduces the influence of uncorrelated components, yielding a more accurate phase estimation.
 
 None of the attempts has produces satisfactory results according to the testing technique adoperated.
 
