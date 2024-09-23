@@ -25,7 +25,7 @@ With this method you can see a tendency towards an average phase of 0 degrees.
 
 ## Comparison A VS B
 
-![Plot A vs B](../Results/080824_15.42/A_VS_B.png)
+![Plot A vs B](../Results/080824_15.42/A_vs_B.png)
 Source code: [avg_wf_vs_avg_fft](avg_wf_VS_avg_fft.ipynb)
-![Plot A vs B phases](../Results/080824_15.42/A_VS_B_phases.png)
+![Plot A vs B phases](../Results/080824_15.42/A_vs_B_phases.png)
 Source code: [avg_wf_vs_avg_phase](avg_wf_VS_avg_fft_phase.ipynb)
